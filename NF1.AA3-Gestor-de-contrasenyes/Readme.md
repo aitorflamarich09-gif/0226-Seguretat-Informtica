@@ -147,6 +147,7 @@ La guia ha de cobrir els següents punts obligatoris:
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/correo%20extension.png)
 
 - Introducció de la contrasenya del compte des de la extensió.
+  
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/Contra%20extension.png)
 
 - Comprovació final que l’emplenament automàtic i l’autenticació funcionen correctament.
@@ -162,6 +163,7 @@ La guia ha de cobrir els següents punts obligatoris:
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/exportar%20j.png)
 
 - Confirmació del procés d’exportació o backup abans de guardar-lo.
+  
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/COnfirmacios.png)
 
 - Elecció de la ubicació on es guardarà la còpia de seguretat.

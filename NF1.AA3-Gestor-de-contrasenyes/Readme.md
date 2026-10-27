@@ -83,10 +83,10 @@ La guia ha de cobrir els següents punts obligatoris:
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/Dins.png)
 
 - Aqui es descarega la app
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Installar.png)
+![](/NF1.AA3-Gestor-de-contrasenyes/img/Guardar.png)
 
 - Aqui ponem hon volem que es descaregui
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Descargar.png)
+![](/NF1.AA3-Gestor-de-contrasenyes/img/unnamed.png)
 
 - Procés d’instal·lació del programa al sistema.
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/Descargan-se.png)

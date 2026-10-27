@@ -139,6 +139,7 @@ La guia ha de cobrir els següents punts obligatoris:
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/Extension%20config.png)
 
 - Inici de sessió des de la extensió de Bitwarden.
+
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/Login.png)
 
 - Introducció del correu electrònic dins de la extensió per autenticar-se.

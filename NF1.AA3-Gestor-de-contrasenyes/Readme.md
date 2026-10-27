@@ -63,7 +63,7 @@ Heu de redactar un informe que justifiqui tècnicament la decisió de la Direcci
 - La sincronització entre dispositius és més complicada.
 - Si es perd o es fa malbé el fitxer sense tenir una còpia de seguretat, es poden perdre totes les contrasenyes.
 - Requereix més gestió manual i pot ser menys còmode per treballar en equip.
-*
+
 
 4. Recomanació: Concloeu l'informe escollint l'eina que considereu més adequada per al personal tècnic de l'empresa i justifiqueu la vostra elecció.
 

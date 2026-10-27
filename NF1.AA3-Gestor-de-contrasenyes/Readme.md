@@ -116,6 +116,7 @@ La guia ha de cobrir els següents punts obligatoris:
 2. Generació de Contrasenyes Segures: Explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 
 - Generador de contrasenyes de Bitwarden, on es pot configurar la longitud, la complexitat i els caràcters especials perquè la contrasenya sigui segura i difícil de forçar.
+  
 ![](/NF1.AA3-Gestor-de-contrasenyes/img/Configurar%20contra%20gen.png)
 
 3. Exemples d'Ús i Emplenament Automàtic:

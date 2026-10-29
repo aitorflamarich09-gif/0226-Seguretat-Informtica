@@ -71,98 +71,98 @@ La guia ha de cobrir els següents punts obligatoris:
 1. Instal·lació i configuració inicial: descàrrega, instal·lació i creació de la BBDD principal o compte mestre.
 
 - Busquem l'aplicació Bitwarden.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Bitwarden%20google.png)
+![](./img/Bitwarden%20google.png)
 
 - Per a que ja estem dins de la web.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Dins.png)
+![](./img/Dins.png)
 
 - Aquí es descarrega l'aplicació.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Guardar.png)
+![](./img/Guardar.png)
 
 - Aquí posem on volem que es descarregui.
 
-![](/NF1.AA3-Gestor-de-contrasenyes/img/unnamed.png)
+![](./img/unnamed.png)
 
 - Procés d'instal·lació del programa al sistema.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Descargan-se.png)
+![](./img/Descargan-se.png)
 
 - Una vegada l'aplicació descarregada, l'obrim.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Obrir.png)
+![](./img/Obrir.png)
 
 - L'aplicació ja està oberta i preparada per iniciar la configuració inicial; si no tens compte, li dones a crear compte.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Obrir%20app.png)
+![](./img/Obrir%20app.png)
 
 - Pantalla de creació del compte mestre de Bitwarden.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Crear%20cuenta.png)
+![](./img/Crear%20cuenta.png)
 
 - Una vegada ja has fet el compte, t'arriba un correu.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Correo.png)
+![](./img/Correo.png)
 
 - Introducció de la contrasenya del compte; ha de ser segura i tenir com a mínim 12 caràcters.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Contra.png)
+![](./img/Contra.png)
 
 - Inici de sessió al compte de Bitwarden després del registre.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/log.png)
+![](./img/log.png)
 
 - Ara posem la contrasenya per iniciar sessió.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Contraseña.png)
+![](./img/Contraseña.png)
 
 2. Generació de contrasenyes segures: explicació de com utilitzar el generador de contrasenyes de l'eina (paràmetres, longitud, caràcters especials).
 
 - Generador de contrasenyes de Bitwarden, on es pot configurar la longitud, la complexitat i els caràcters especials perquè la contrasenya sigui segura i difícil de forçar.
 
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Configurar%20contra%20gen.png)
+![](./img/Configurar%20contra%20gen.png)
 
 3. Exemples d'ús i emplenament automàtic:
 
 - Prova del funcionament del gestor de contrasenyes amb un exemple: poses el nom del que guardes i es genera la contrasenya; una vegada ja està feta, li donem a «Save».
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Proba.png)
+![](./img/Proba.png)
 
 - Exemple d'una contrasenya de compte guardada per a un lloc web: posem el nom de la web, el nom d'usuari i després li donem al botó del cosat (o de la clau) en l'apartat de contrasenya; es genera la contrasenya depenent del que nosaltres volem.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/web%20contra.png)
+![](./img/web%20contra.png)
 
 - Visualització de la contrasenya generada i emmagatzemada per a una pàgina web; també podem posar una authenticator key, per si perdem l'accés o el token, i l'enllaç a la web.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Contra%20web%202.png)
+![](./img/Contra%20web%202.png)
 
 - Extensió de Bitwarden integrada al navegador per omplir credencials de manera automàtica.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Extension.png)
+![](./img/Extension.png)
 
 - Procés per afegir la extensió del navegador.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Agregar%20extension.png)
+![](./img/Agregar%20extension.png)
 
 - Configuració de la extensió perquè s'integri correctament amb el navegador i el compte.
 
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Extension%20config.png)
+![](./img/Extension%20config.png)
 
 - Inici de sessió des de la extensió de Bitwarden.
 
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Login.png)
+![](./img/Login.png)
 
 - Introducció del correu electrònic dins de la extensió per autenticar-se.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/correo%20extension.png)
+![](./img/correo%20extension.png)
 
 - Introducció de la contrasenya del compte des de la extensió.
 
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Contra%20extension.png)
+![](./img/Contra%20extension.png)
 
 - Comprovació final que l'emplenament automàtic i l'autenticació funcionen correctament.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Proba%20extension.png)
+![](./img/Proba%20extension.png)
 
 4. Gestió de còpies de seguretat (backup):
 
 - Opció d'exportació de les dades del gestor de contrasenyes per crear una còpia de seguretat.
 
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Export.png)
+![](./img/Export.png)
 
 - Pantalla de l'exportació del fitxer de còpia de seguretat.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/exportar%20j.png)
+![](./img/exportar%20j.png)
 
 - Confirmació del procés d'exportació o backup abans de guardar-ho.
 
-![](/NF1.AA3-Gestor-de-contrasenyes/img/COnfirmacios.png)
+![](./img/COnfirmacios.png)
 
 - Elecció de la ubicació on es guardarà la còpia de seguretat.
-![](/NF1.AA3-Gestor-de-contrasenyes/img/Donde%20guardar.png)
+![](./img/Donde%20guardar.png)
 
 ### Recomanació
 Per guardar aquest arxiu on hi ha totes les contrasenyes, ho podeu guardar en un disc dur extern o en un USB xifrat.
